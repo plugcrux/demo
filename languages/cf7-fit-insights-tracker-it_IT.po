@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Form Insights Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai permessi sufficienti per accedere a questa pagina."
+
+msgid "Thank you for using WP Contact Form 7 - Insights Tracker. No data is transmitted to third-party servers without your consent."
+msgstr "Grazie per aver utilizzato WP Contact Form 7 - Insights Tracker. Nessun dato viene trasmesso a server di terze parti senza il tuo consenso."
+
+msgid "No Contact Form 7 forms found."
+msgstr "Nessun modulo Contact Form 7 trovato."
+
+msgid "Last Record Added At"
+msgstr "Ultimo record aggiunto a"
+
+msgid "Total Submissions"
+msgstr "Totale invii"
+
+msgid "Reports"
+msgstr "Rapporti"
+
+msgid "Form Name"
+msgstr "Nome del modulo"
+
+msgid "WP Form Insights Tracker requires Contact Form 7 version %s or higher. Please update your Contact Form 7 installation."
+msgstr "WP Form Insights Tracker richiede la versione %s o superiore di Contact Form 7. Si prega di aggiornare l'installazione di Contact Form 7."
+
+msgid "WP Form Insights Tracker requires WordPress version %s or higher. Please update your WordPress installation."
+msgstr "WP Form Insights Tracker richiede la versione %s o superiore di WordPress. Si prega di aggiornare l'installazione di WordPress."
+
+msgid "Contact Form 7 is not installed or activated. Please install and activate Contact Form 7 to use this plugin."
+msgstr "Contact Form 7 non è installato o attivato. Si prega di installare e attivare Contact Form 7 per utilizzare questo plugin."
+
+msgid "S.No"
+msgstr "N°"
+
+msgid "Form Insights Tracker"
+msgstr "Tracker di approfondimenti sui moduli"
+
+msgid "N/A"
+msgstr "N/D"
